@@ -4,6 +4,10 @@ body {
     box-sizing: border-box;
     background: violet;
     font-family: 'Poppins';
+    background-image: url(imgs/sky-light-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 .container {
