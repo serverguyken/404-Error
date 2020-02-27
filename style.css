@@ -1,0 +1,150 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: violet;
+    font-family: 'Poppins';
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    align-items: center;
+    bottom: 300px;
+}
+
+.contents h2 {
+    color: #fff;
+    font-size: 18vw;
+    height: 100px;
+}
+
+.contents h4 {
+    position: relative;
+    background: #fff;
+    color:#0b154a;
+    margin-bottom: 20px;
+    font-size: 1.5em;
+    padding: 10px 20px;
+    display: inline-block;
+}
+
+.contents p {
+    color: #fff;
+}
+
+
+.contents a {
+    background: #0b154a;
+    color: #fff;
+    font-size: 1em;
+    padding: 10px 25px;
+    position: relative;
+    display: inline-block;
+    border-radius: 8px;
+    border: none;
+    text-decoration: none;
+    margin-top: 25px;
+}
+
+
+@media only screen and (min-device-width: 1280px) and (max-device-height: 800px) {
+    .container {
+        margin-bottom: 360vh;
+    }
+}
+
+
+
+
+
+@media only screen and (min-device-width: 1280px) and (max-device-height: 950px) {
+    .container {
+        bottom: 0px;
+    }
+}
+
+
+
+@media only screen and (min-device-width: 360px) and (max-device-height: 640px) {
+    .container {
+        bottom: 0px;
+    }
+}
+
+
+
+
+
+@media only screen and (min-device-width: 411px) and (max-device-height: 731px) {
+    .container {
+        bottom: 0px;
+    }
+}
+
+
+
+
+
+
+
+@media only screen and (min-device-width: 411px) and (max-device-height: 823px) {
+    .container {
+        bottom: 0px;
+    }
+}
+
+
+
+
+
+
+@media only screen and (min-device-width: 320px) and (max-device-height: 568px) {
+    .container {
+        bottom: 0px;
+    }
+}
+
+
+
+
+
+
+@media only screen and (min-device-width: 375px) and (max-device-height: 667px) {
+    .container {
+        bottom: 0px;
+    }
+}
+
+
+
+
+
+@media only screen and (min-device-width: 414px) and (max-device-height: 736px) {
+    .container {
+        bottom: 0px;
+    }
+}
+
+
+
+@media only screen and (min-device-width: 375px) and (max-device-height: 812px) {
+    .container {
+        bottom: 0px;
+    }
+}
+
+
+
+@media only screen and (min-device-width: 768px) and (max-device-height: 1024px) {
+    .container {
+        bottom: 0px;
+    }
+}
+
+
+@media only screen and (min-device-width: 1024px) and (max-device-height: 1366px) {
+    .container {
+        bottom: 0px;
+    }
+}
