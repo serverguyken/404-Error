@@ -1,7 +1,6 @@
 body {
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
     background: violet;
     font-family: 'Poppins';
     background-image: url(imgs/sky-light-bg.png);
@@ -14,7 +13,7 @@ body {
     position: relative;
     text-align: center;
     align-items: center;
-    bottom: 300px;
+    bottom: 180px;
 }
 
 .contents h2 {
@@ -49,23 +48,6 @@ body {
     border: none;
     text-decoration: none;
     margin-top: 25px;
-}
-
-
-@media only screen and (min-device-width: 1280px) and (max-device-height: 800px) {
-    .container {
-        margin-bottom: 360vh;
-    }
-}
-
-
-
-
-
-@media only screen and (min-device-width: 1280px) and (max-device-height: 950px) {
-    .container {
-        bottom: 0px;
-    }
 }
 
 
@@ -140,15 +122,3 @@ body {
 
 
 
-@media only screen and (min-device-width: 768px) and (max-device-height: 1024px) {
-    .container {
-        bottom: 0px;
-    }
-}
-
-
-@media only screen and (min-device-width: 1024px) and (max-device-height: 1366px) {
-    .container {
-        bottom: 0px;
-    }
-}
